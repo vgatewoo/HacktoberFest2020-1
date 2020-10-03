@@ -143,3 +143,7 @@ Name: [Harsh Vijay](https://github.com/hvijaycse)<br/>
 Place: Pink City, India<br/>
 About: ML Developer<br/>
 <br/>
+Name: [vgatewoo](https://github.com/vgatewoo)<br/>
+Place: Ijaxfl<br/>
+About: new to this<br/>
+<br/>
